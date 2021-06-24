@@ -10,4 +10,3 @@
 * **decrypt(ciphertext, privatekey)** fonksiyonu ciphertext.txt dosyası içindeki metni privatekey.txt dosyası içindeki private key ile deşifreleyip plaintext2.txt dosyasına yazar. plaintext.txt ve plaintext2.txt dosyalarını karşılaştırıp özdeş olup olmadıklarını çıktı olarak vermektedir.
 
 ![Schmidt-Samoa-Algoritması](Schmidt-Samoa-Algoritması.jpg)
-Format: ![Alt Text](url)
