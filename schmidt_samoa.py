@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-# Schmidt-Samoa
+# Birhan Berk Oktay
 
 import random
 
