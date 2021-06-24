@@ -1,7 +1,7 @@
 ## Hakkında
 
 * Girdi olarak bulunduğu dizindeki plaintext.txt dosyasını alır.
-* Kullanıcıdan anahtar uzunluğu istenir. Bu uzunluk plaintext.txt dosyasındaki metinden en az 4 kat büyük olmalıdır. Aksi taktirde metin kaybedilir.
+* Kullanıcıdan anahtar uzunluğu istenir. Bu uzunluk plaintext.txt dosyasındaki karakter sayısından en az 4 kat büyük olmalıdır. Aksi taktirde metin kaybedilir.
 
 ## Yapı
 
